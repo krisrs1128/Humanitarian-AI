@@ -3,7 +3,7 @@
 Weekly humanitarian AI reading group at Mila.
 
 ### Organization
-Contact: Kris Sankaran  
+Contact: [Kris Sankaran](kris.sankaran@umontreal.ca)
 Regular Time and Location: Tuesdays 3:30 - 4:30pm at AA1175  
 [Potential Topics](https://docs.google.com/document/d/17zkL8ql4JcM8knAEJfRtmgtUCiv-7PyYaZlMTkkvkYM/edit) and [Papers](https://docs.google.com/spreadsheets/u/1/d/1J012R_UeZnJPbADdc_8iXmoLsDXv_-vGQOOo8yWBZKM/edit)  
 [Feedback Form](https://docs.google.com/forms/d/1FRMYoAEy4VozPfgRpZqIcgjfrkKZKiGoIQ5bBNBgZS0/edit)
