@@ -1,5 +1,3 @@
-## Humanitarian AI
-
 Weekly humanitarian AI reading group at Mila.
 
 ### Organization
