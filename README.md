@@ -22,7 +22,7 @@ Reflecting these goals, the format for meetings will vary,
  * Descriptions of projects from potential collaborators, along with QA.
 
 |       Date       | Topic | Presenters | 
-|:----------------:|:----------------------------------------:|:----------:|
+|:------------------:|:-----------------------------------:|:----------:|
 | 9 October, 2018 |	[An Invitation to Humanitarian AI](An Invitation to Humanitarian AI) + Project Discussions | Kris Sankaran |
 | 16 October, 2018 |	No meeting  |  |
 | 23 October, 2018 | Deep Learning in Remote Sensing: Challenges and opportunities | Anthony Ortiz |
