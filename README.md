@@ -25,3 +25,5 @@ Reflecting these goals, the format for meetings will vary,
 | 16 October, 2018 |	No meeting  |  |
 | 23 October, 2018 | Deep Learning in Remote Sensing: Challenges and opportunities | Anthony Ortiz |
 | 30 October, 2018 | A Scalable, Flexible Augmentation of the Student Education Process | Bhairav Mehta |
+
+If you are interested in either (1) presenting or (2) contributing to one of our ongoing collaborations, please write to Kris!
