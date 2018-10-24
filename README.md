@@ -23,7 +23,7 @@ Reflecting these goals, the format for meetings will vary,
 |:--------------------:|:---------------------------------:|:----------:|
 | 9 October, 2018 |	[An Invitation to Humanitarian AI](https://docs.google.com/presentation/d/1UZAdWj_KL3OL01JwUaTQWg_7mzg0VNu-5y6dCg_mf2k/edit#slide=id.g43b6d344ca_0_125) + Project Discussions | Kris Sankaran |
 | 16 October, 2018 |	No meeting  |  |
-| 23 October, 2018 | [Deep Learning in Remote Sensing: Challenges and opportunities](https://docs.google.com/presentation/d/14xL90_veILg2ficJ4yZPVXosVOu_bLYoA-isGod1hi4/edit?usp=sharing) | Anthony Ortiz |
+| 23 October, 2018 | [Deep Learning in Remote Sensing: Challenges and opportunities](https://docs.google.com/presentation/d/1BkumLGAr1kOT8NPla8K2R0s7Vw6JRGW-MQUn3wmq7sI/edit#slide=id.p) | Anthony Ortiz |
 | 30 October, 2018 | A Scalable, Flexible Augmentation of the Student Education Process | Bhairav Mehta |
 
 If you are interested in either (1) presenting or (2) contributing to one of our ongoing collaborations, please write to Kris!
