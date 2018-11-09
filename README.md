@@ -27,7 +27,5 @@ Reflecting these goals, the format for meetings will vary,
 | 30 October, 2018 | [A Scalable, Flexible Augmentation of the Student Education Process](https://docs.google.com/presentation/d/1XXCOMBnRqKdQTbjPNQrN7u8eQ1PI8-INHyF9PpntcMI/edit#slide=id.g46896b1dfa_0_644) ([recording](https://bluejeans.com/playback/s/SEQunbRtrx95koUJlwkXBmGEdgnQakIxuC8fzSdh702uJ9YAECmT29kvSJ2UZBKG)) | Bhairav Mehta |
 | 6 November, 2018 | [Tackling gender bias in text](https://drive.google.com/open?id=1--Gu_mcHssy7KLPePSvNExiOQt8Emmur) ([Label!](https://sites.google.com/view/biasly/home), [recording](https://bluejeans.com/playback/s/SL7kFTdtxn8By4oPQiWsH5qheSrnYl9hYTV4soAotsQckVr5TQoXY2tHWomGIvGa)) | Yasmeen Hitti |
 | 13 November, 2018 | TBA | Martin Weiss |
-| 20 November, 2018 | TBA | Margaux Luck |
-| 27 November, 2018 | TBA | Rebecca Woodmass |
 
 If you are interested in either (1) presenting or (2) contributing to one of our ongoing collaborations, please write to Kris!
