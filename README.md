@@ -28,6 +28,6 @@ Reflecting these goals, the format for meetings will vary,
 | 6 November, 2018 | [Tackling gender bias in text](https://drive.google.com/open?id=1--Gu_mcHssy7KLPePSvNExiOQt8Emmur) ([Label!](https://sites.google.com/view/biasly/home), [recording](https://bluejeans.com/playback/s/SL7kFTdtxn8By4oPQiWsH5qheSrnYl9hYTV4soAotsQckVr5TQoXY2tHWomGIvGa)) | Yasmeen Hitti |
 | 13 November, 2018 | A Survey of Tasks and Tools for the Visually Impaired ([recording](https://bluejeans.com/playback/s/C0uYdvznGCA9WZ9RYzmr7O2LvEwql7uLG1A98l8M8jz9MmnnDzRImoqDiCoHAfDj)) | Martin Weiss |
 | 20 November, 2018 | No meeting |  |
-| 27 November, 2018 | Automatic classification of different types of online sexual harassment and identification of their emotional content | Sima Sharifirad |
+| 27 November, 2018 | [Automatic classification of different types of online sexual harassment and identification of their emotional content](https://docs.google.com/presentation/d/1L9HKI6E6g3IezKDpYGwmo0BFwyg-bWasXrudZQ_Jsoo/edit?usp=sharing) ([recording](https://bluejeans.com/s/vvhOd/))| Sima Sharifirad |
 
 If you are interested in either (1) presenting or (2) contributing to one of our ongoing collaborations, please write to Kris!
