@@ -20,6 +20,7 @@ Reflecting these goals, the format for meetings will vary,
 
 |       Date       | Topic | Presenters | 
 |:--------------------:|:---------------------------------:|:----------:|
+| 17 January, 2018 | [Technology for Good: Perspectives from Bangalore and Chicago](https://drive.google.com/file/d/1Psp0NJsL8lNx41RRSrtgNhWplB9a-t2N/view?usp=sharing) | Kris Sankaran |
 | 27 November, 2018 | [Automatic classification of different types of online sexual harassment and identification of their emotional content](https://docs.google.com/presentation/d/1L9HKI6E6g3IezKDpYGwmo0BFwyg-bWasXrudZQ_Jsoo/edit?usp=sharing) ([recording](https://bluejeans.com/s/vvhOd/))| Sima Sharifirad |
 | 20 November, 2018 | No meeting |  |
 | 13 November, 2018 | A Survey of Tasks and Tools for the Visually Impaired ([recording](https://bluejeans.com/playback/s/C0uYdvznGCA9WZ9RYzmr7O2LvEwql7uLG1A98l8M8jz9MmnnDzRImoqDiCoHAfDj)) | Martin Weiss |
