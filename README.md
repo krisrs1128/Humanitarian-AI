@@ -28,8 +28,8 @@ Reflecting these goals, the format for meetings will vary,
 | 21 February, 2019 | | |
 | 14 February, 2019 | | |
 | 7 February, 2019 | | |
-| 31 January, 2019 | | |
-| 24 January, 2019 | | |
+| 31 January, 2019 | Mila Roundtable | |
+| 24 January, 2019 | No Talk | |
 | 17 January, 2019 | [Technology for Good: Perspectives from Bangalore and Chicago](https://drive.google.com/file/d/1Psp0NJsL8lNx41RRSrtgNhWplB9a-t2N/view?usp=sharing) | Kris Sankaran |
 | 27 November, 2018 | [Automatic classification of different types of online sexual harassment and identification of their emotional content](https://docs.google.com/presentation/d/1L9HKI6E6g3IezKDpYGwmo0BFwyg-bWasXrudZQ_Jsoo/edit?usp=sharing) ([recording](https://bluejeans.com/s/vvhOd/))| Sima Sharifirad |
 | 20 November, 2018 | No meeting |  |
