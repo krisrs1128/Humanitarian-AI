@@ -28,7 +28,7 @@ Reflecting these goals, the format for meetings will vary,
 | 21 February, 2019 | | |
 | 14 February, 2019 | | |
 | 7 February, 2019 | | |
-| 31 January, 2019 | Mila Roundtable | Pablo Fonseca, Kris Sankaran, Victor Schmidt, Yasmeen Hitti, Bhairav Mehta|
+| 31 January, 2019 | Mila Roundtable | Pablo Fonseca, Kris Sankaran, Victor Schmidt, Yasmeen Hitti, Bhairav Mehta| [Crisis Mapping](https://drive.google.com/file/d/1RfUybZ2kqyriPRiIPRBncJAx5XCM_eU1/view?usp=sharing), [Climate Change AI](https://slides.com/vict0rsch/ccai-1#/), [Biasly](https://docs.google.com/presentation/d/1UiQ4uEmIih3EqZKcoZGdCo0V-5tIp6aQ7gBa2e5ex5E/edit), q&ai |
 | 24 January, 2019 | No Talk | |
 | 17 January, 2019 | [Technology for Good: Perspectives from Bangalore and Chicago](https://drive.google.com/file/d/1Psp0NJsL8lNx41RRSrtgNhWplB9a-t2N/view?usp=sharing) | Kris Sankaran |
 | 27 November, 2018 | [Automatic classification of different types of online sexual harassment and identification of their emotional content](https://docs.google.com/presentation/d/1L9HKI6E6g3IezKDpYGwmo0BFwyg-bWasXrudZQ_Jsoo/edit?usp=sharing) ([recording](https://bluejeans.com/s/vvhOd/))| Sima Sharifirad |
