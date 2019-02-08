@@ -27,7 +27,7 @@ Reflecting these goals, the format for meetings will vary,
 | 28 February, 2019 | | |
 | 21 February, 2019 | TBA | Teng Ye |
 | 14 February, 2019 | | |
-| 7 February, 2019 | | |
+| 7 February, 2019 | No Talk | |
 | 31 January, 2019 | Mila Roundtable: [Crisis Mapping](https://drive.google.com/file/d/1RfUybZ2kqyriPRiIPRBncJAx5XCM_eU1/view?usp=sharing), [Climate Change AI](https://slides.com/vict0rsch/ccai-1#/), [Biasly](https://docs.google.com/presentation/d/1UiQ4uEmIih3EqZKcoZGdCo0V-5tIp6aQ7gBa2e5ex5E/edit), q&ai | Pablo Fonseca, Kris Sankaran, Victor Schmidt, Yasmeen Hitti, Bhairav Mehta| 
 | 24 January, 2019 | No Talk | |
 | 17 January, 2019 | [Technology for Good: Perspectives from Bangalore and Chicago](https://drive.google.com/file/d/1Psp0NJsL8lNx41RRSrtgNhWplB9a-t2N/view?usp=sharing) | Kris Sankaran |
