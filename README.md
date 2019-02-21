@@ -25,7 +25,7 @@ Reflecting these goals, the format for meetings will vary,
 | 21 March, 2019 | TBA | Fei Fang |
 | 14 March, 2019 | | |
 | 7 March, 2019 | EnviroNet: ImageNet analog for environment and global AI challenge to fight climate change | Karthik Mukkavilli |
-| 28 February, 2019 | | |
+| 28 February, 2019 | TBA | Aman Ahuja |
 | 21 February, 2019 | Data Science for Tenants' Good in NYC: Proactive Outreach to Reduce Rental Housing Harassment | Teng Ye |
 | 14 February, 2019 | No Talk | |
 | 7 February, 2019 | No Talk | |
