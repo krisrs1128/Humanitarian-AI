@@ -22,10 +22,10 @@ Reflecting these goals, the format for meetings will vary,
 |:--------------------:|:---------------------------------:|:----------:|
 | 4 April, 2019 | TBA | Anna Bethke |
 | 28 March, 2019 | TBA | Alexandra Olteanu |
-| 21 March, 2019 | TBA | Fei Fang |
+| 21 March, 2019 | Integrating Learning with Game Theory for Societal Challenges | Fei Fang |
 | 14 March, 2019 | Bridging gaps between climate sciences and AI| Karthik Mukkavilli |
 | 7 March, 2019 | No Talk |  |
-| 28 February, 2019 | TBA | Aman Ahuja |
+| 28 February, 2019 | Addressing Ethical and Privacy Concerns in Data Products and Initiatives | Aman Ahuja |
 | 21 February, 2019 | Data Science for Tenants' Good in NYC: Proactive Outreach to Reduce Rental Housing Harassment | Teng Ye |
 | 14 February, 2019 | No Talk | |
 | 7 February, 2019 | No Talk | |
